@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArthurPeyrichou
+- 👀 I’m interested in big data, blockchain
+- 💞️ I’m looking to collaborate on all data vizualisation, data processing
+- 📫 How to reach me: https://www.linkedin.com/in/arthur-peyrichou-190725121/
